@@ -1,5 +1,6 @@
 ### Jupyter Notebook ###
-*/.ipynb_checkpoints/*
+/.ipynb_checkpoints/
+/slides/imgs/.ipynb_checkpoints/
 
 ### R ###
 .Rhistory
@@ -8,6 +9,7 @@
 ### RStudio ###
 debug.log
 titanic-decision-trees.Rproj
+.Rproj.user
 
 ### LaTex ###
 /slides/slides.aux
